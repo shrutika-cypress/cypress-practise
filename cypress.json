@@ -2,5 +2,6 @@
     "pageLoadTimeout": 10000,
     "defaultCommandTimeout": 10000,
     "baseUrl": "https://designmodo.com/my-account/sign-in/",
-    "testFiles": ["**/*.feature", "**/*.spec.js"]
+    "testFiles": ["**/*.feature", "**/*.spec.js"],
+    "projectId": "u1hkve"
 }
